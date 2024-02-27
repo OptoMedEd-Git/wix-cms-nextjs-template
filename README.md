@@ -1,0 +1,1 @@
+# wix-cms-nextjs-template
